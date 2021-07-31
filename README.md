@@ -9,3 +9,8 @@
 | Titanic - Kaggle | Binary classification task performed on Titanic dataset from Kaggle using (not so deep) Dense model using Keras. Good example for ultimate starters.|
 |ObjectDetectionInImage_YOLOv3| Object detection task perform using YOLOv3 model on images. Code and model inspired by Coursera course.|
 |ObjectDetectionInVideo_YOLOv3| Object detection task perform using YOLOv3 model on video frames. Code and model inspired by Coursera course.|
+
+
+#### Citation
+
+[![DOI](https://zenodo.org/badge/333051227.svg)](https://zenodo.org/badge/latestdoi/333051227)
