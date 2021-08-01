@@ -1,4 +1,4 @@
-# Deep Leaning
+# Deep Learning
 > This repository is an ensemble of different kinds of applications implemented using Tensorflow and Keras. A very good guide for beginners. The following table gives a overview(besides the name) of what different folder contains.
 
 #### **_Table of contents_**:
