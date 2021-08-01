@@ -18,15 +18,20 @@
 |ObjectDetectionInImage_YOLOv3| Object detection task perform using YOLOv3 model on images. Code and model are inspired by Coursera course.|
 |ObjectDetectionInVideo_YOLOv3| Object detection task perform using YOLOv3 model on video frames. Code and model are inspired by Coursera course.|
 |TransferLearning|This notebook shows implementation of different transfer learning strategies and their comparison.|
-|BERTFineTuning|A BERT model is fine-tuned with a task of finding grammatical correctness of a sentence. This implementation uses 'glue-CoLA' dataset.|
+|BERTFineTuning|A BERT model is fine-tuned with a binary classification task of finding grammatical correctness of a sentence. This implementation uses 'glue-CoLA' dataset.|
+|VAE|This notebook contains implementation of a basic Variational Autoencoder(VAE) on MNIST dataset.|
+|ImprovedGAN_WGAN|Implementation of Wasserstein GAN(WGAN) and WGAN with Gradient Penalty(WGAN-GP) to generate new images for FMNIST dataset.|
 
-###### **_Note:_**  Some of the implementations/experminets are inspired by some blogs. You can find relevant links in the notebooks itself.
+
+###### **_Note:_**  
+Some of the implementations/experminets are inspired by some blogs. You can find relevant links in the notebooks itself.
 
 ---
 
 #### Citation:
 
 >If this repository helps you or you use some of its code, please refer the following archive as citation in your codes/publications.
+
 [![DOI](https://zenodo.org/badge/333051227.svg)](https://zenodo.org/badge/latestdoi/333051227)
 
 #### Contact:
